@@ -1,0 +1,35 @@
+I, [2018-04-20T03:18:00.631308 #867]  INFO -- : Refreshing Gem list
+I, [2018-04-20T03:18:48.447626 #867]  INFO -- : listening on addr=127.0.0.1:8080 fd=18
+I, [2018-04-20T03:18:48.450591 #867]  INFO -- : listening on addr=/var/opt/gitlab/gitlab-rails/sockets/gitlab.socket fd=19
+I, [2018-04-20T03:18:48.501615 #867]  INFO -- : master process ready
+I, [2018-04-20T03:18:49.253197 #1114]  INFO -- : worker=1 ready
+I, [2018-04-20T03:18:49.638166 #1111]  INFO -- : worker=0 ready
+FATAL:  terminating connection due to administrator command
+I, [2018-04-20T03:21:24.563157 #867]  INFO -- : reaped #<Process::Status: pid 1111 exit 0> worker=0
+I, [2018-04-20T03:21:24.575755 #867]  INFO -- : reaped #<Process::Status: pid 1114 exit 0> worker=1
+I, [2018-04-20T03:21:24.585494 #867]  INFO -- : master complete
+I, [2018-04-20T03:21:35.789157 #2470]  INFO -- : Refreshing Gem list
+I, [2018-04-20T03:22:30.285724 #2470]  INFO -- : listening on addr=127.0.0.1:8080 fd=18
+I, [2018-04-20T03:22:30.288712 #2470]  INFO -- : unlinking existing socket=/var/opt/gitlab/gitlab-rails/sockets/gitlab.socket
+I, [2018-04-20T03:22:30.291322 #2470]  INFO -- : listening on addr=/var/opt/gitlab/gitlab-rails/sockets/gitlab.socket fd=19
+I, [2018-04-20T03:22:30.347431 #2470]  INFO -- : master process ready
+W, [2018-04-20T03:22:30.349175 #2470]  WARN -- : grandparent died too soon?: Broken pipe (Errno::EPIPE)
+I, [2018-04-20T03:22:30.594580 #2808]  INFO -- : worker=0 ready
+I, [2018-04-20T03:22:30.627249 #2811]  INFO -- : worker=1 ready
+I, [2018-04-20T03:26:37.993387 #522]  INFO -- : Refreshing Gem list
+I, [2018-04-20T03:27:47.201487 #522]  INFO -- : listening on addr=127.0.0.1:8080 fd=18
+I, [2018-04-20T03:27:47.207323 #522]  INFO -- : unlinking existing socket=/var/opt/gitlab/gitlab-rails/sockets/gitlab.socket
+I, [2018-04-20T03:27:47.209654 #522]  INFO -- : listening on addr=/var/opt/gitlab/gitlab-rails/sockets/gitlab.socket fd=19
+I, [2018-04-20T03:27:47.267733 #522]  INFO -- : master process ready
+I, [2018-04-20T03:27:47.649729 #716]  INFO -- : worker=1 ready
+I, [2018-04-20T03:27:47.668760 #713]  INFO -- : worker=0 ready
+W, [2018-04-20T06:49:26.676411 #716]  WARN -- : #<Unicorn::HttpServer:0x00007f5bf175c908>: worker (pid: 716) exceeds memory limit (530968064.0 bytes > 528319281 bytes)
+W, [2018-04-20T06:49:26.678456 #716]  WARN -- : Unicorn::WorkerKiller send SIGQUIT (pid: 716) alive: 12089 sec (trial 1)
+I, [2018-04-20T06:49:28.020145 #522]  INFO -- : reaped #<Process::Status: pid 716 exit 0> worker=1
+I, [2018-04-20T06:49:29.520615 #25318]  INFO -- : worker=1 ready
+WARNING:  terminating connection because of crash of another server process
+DETAIL:  The postmaster has commanded this server process to roll back the current transaction and exit, because another server process exited abnormally and possibly corrupted shared memory.
+HINT:  In a moment you should be able to reconnect to the database and repeat your command.
+WARNING:  terminating connection because of crash of another server process
+DETAIL:  The postmaster has commanded this server process to roll back the current transaction and exit, because another server process exited abnormally and possibly corrupted shared memory.
+HINT:  In a moment you should be able to reconnect to the database and repeat your command.

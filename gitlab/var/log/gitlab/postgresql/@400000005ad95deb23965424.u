@@ -1,0 +1,49 @@
+2018-04-20_03:16:57.66991 LOG:  database system was shut down at 2018-04-20 03:16:49 GMT
+2018-04-20_03:16:57.69215 LOG:  MultiXact member wraparound protections are now enabled
+2018-04-20_03:16:57.69830 LOG:  database system is ready to accept connections
+2018-04-20_03:16:57.70238 LOG:  autovacuum launcher started
+2018-04-20_03:21:16.62114 received TERM from runit, sending INT instead to force quit connections
+2018-04-20_03:21:16.63993 LOG:  received fast shutdown request
+2018-04-20_03:21:16.64132 LOG:  aborting any active transactions
+2018-04-20_03:21:16.64733 FATAL:  terminating connection due to administrator command
+2018-04-20_03:21:16.65116 FATAL:  terminating connection due to administrator command
+2018-04-20_03:21:16.65344 FATAL:  terminating connection due to administrator command
+2018-04-20_03:21:16.65517 LOG:  autovacuum launcher shutting down
+2018-04-20_03:21:16.65605 FATAL:  terminating connection due to administrator command
+2018-04-20_03:21:16.65733 STATEMENT:  SELECT relnamespace::regnamespace as schemaname,
+2018-04-20_03:21:16.65838 	       relname as relname,
+2018-04-20_03:21:16.65932 	       pg_total_relation_size(oid) bytes
+2018-04-20_03:21:16.65984 	  FROM pg_class
+2018-04-20_03:21:16.66031 	 WHERE relkind = 'r';
+2018-04-20_03:21:16.66072 	
+2018-04-20_03:21:16.70005 FATAL:  the database system is shutting down
+2018-04-20_03:21:16.71060 FATAL:  the database system is shutting down
+2018-04-20_03:21:16.72091 FATAL:  the database system is shutting down
+2018-04-20_03:21:16.73112 FATAL:  the database system is shutting down
+2018-04-20_03:21:16.75113 FATAL:  the database system is shutting down
+2018-04-20_03:21:16.77810 FATAL:  the database system is shutting down
+2018-04-20_03:21:16.78524 FATAL:  the database system is shutting down
+2018-04-20_03:21:16.79740 FATAL:  the database system is shutting down
+2018-04-20_03:21:16.80957 FATAL:  the database system is shutting down
+2018-04-20_03:21:16.82511 FATAL:  the database system is shutting down
+2018-04-20_03:21:16.84245 FATAL:  the database system is shutting down
+2018-04-20_03:21:16.86719 FATAL:  the database system is shutting down
+2018-04-20_03:21:16.88239 LOG:  shutting down
+2018-04-20_03:21:17.18491 FATAL:  the database system is shutting down
+2018-04-20_03:21:17.20110 FATAL:  the database system is shutting down
+2018-04-20_03:21:17.41329 LOG:  database system is shut down
+2018-04-20_03:21:17.86628 LOG:  database system was shut down at 2018-04-20 03:21:17 GMT
+2018-04-20_03:21:17.90319 LOG:  MultiXact member wraparound protections are now enabled
+2018-04-20_03:21:17.91062 LOG:  database system is ready to accept connections
+2018-04-20_03:21:17.91388 LOG:  autovacuum launcher started
+2018-04-20_03:21:41.11670 received TERM from runit, sending INT instead to force quit connections
+2018-04-20_03:21:41.13850 LOG:  received fast shutdown request
+2018-04-20_03:21:41.14079 LOG:  aborting any active transactions
+2018-04-20_03:21:41.14140 LOG:  autovacuum launcher shutting down
+2018-04-20_03:21:41.14192 LOG:  shutting down
+2018-04-20_03:21:41.15096 FATAL:  the database system is shutting down
+2018-04-20_03:21:41.23683 LOG:  database system is shut down
+2018-04-20_03:21:41.55716 LOG:  database system was shut down at 2018-04-20 03:21:41 GMT
+2018-04-20_03:21:41.60847 LOG:  MultiXact member wraparound protections are now enabled
+2018-04-20_03:21:41.61557 LOG:  database system is ready to accept connections
+2018-04-20_03:21:41.62452 LOG:  autovacuum launcher started

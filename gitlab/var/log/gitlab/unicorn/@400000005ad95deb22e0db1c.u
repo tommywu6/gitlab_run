@@ -1,0 +1,19 @@
+2018-04-20_03:17:59.83437 starting new unicorn master
+2018-04-20_03:18:49.63592 adopted new unicorn master 867
+2018-04-20_03:21:24.30817 Received TERM from runit, sending to process group (-PID)
+2018-04-20_03:21:24.31236 Terminated
+2018-04-20_03:21:24.31589 forwarding TERM to unicorn master 867
+2018-04-20_03:21:24.31648 forwarding CONT to unicorn master 867
+2018-04-20_03:21:24.31777 wrapper for unicorn master 867 exiting
+2018-04-20_03:21:24.41937 adopted existing unicorn master 867
+2018-04-20_03:21:34.48622 wrapper for unicorn master 867 exiting
+2018-04-20_03:21:34.50971 starting new unicorn master
+2018-04-20_03:21:43.79551 Received TERM from runit, sending to process group (-PID)
+2018-04-20_03:21:43.82381 bundler: failed to load command: unicorn (/opt/gitlab/embedded/bin/unicorn)
+2018-04-20_03:21:43.82453 SignalException: SIGTERM
+2018-04-20_03:21:43.82550   /opt/gitlab/embedded/lib/ruby/gems/2.3.0/gems/unicorn-5.1.0/lib/unicorn/launcher.rb:46:in `readpartial'
+2018-04-20_03:21:43.82605   /opt/gitlab/embedded/lib/ruby/gems/2.3.0/gems/unicorn-5.1.0/lib/unicorn/launcher.rb:46:in `daemonize!'
+2018-04-20_03:21:43.83034   /opt/gitlab/embedded/lib/ruby/gems/2.3.0/gems/unicorn-5.1.0/bin/unicorn:125:in `<top (required)>'
+2018-04-20_03:21:43.83106   /opt/gitlab/embedded/bin/unicorn:23:in `load'
+2018-04-20_03:21:43.83157   /opt/gitlab/embedded/bin/unicorn:23:in `<top (required)>'
+2018-04-20_03:21:43.99407 adopted existing unicorn master 2470

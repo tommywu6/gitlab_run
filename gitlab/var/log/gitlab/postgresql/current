@@ -1,0 +1,548 @@
+2018-04-20_03:26:26.60708 LOG:  database system was interrupted; last known up at 2018-04-20 03:26:41 GMT
+2018-04-20_03:26:34.04737 LOG:  database system was not properly shut down; automatic recovery in progress
+2018-04-20_03:26:34.21592 LOG:  invalid record length at 0/1A0A6F0: wanted 24, got 0
+2018-04-20_03:26:34.21651 LOG:  redo is not required
+2018-04-20_03:26:34.58529 LOG:  MultiXact member wraparound protections are now enabled
+2018-04-20_03:26:34.60760 LOG:  database system is ready to accept connections
+2018-04-20_03:26:34.62571 LOG:  autovacuum launcher started
+2018-04-20_07:41:05.13451 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:05.43503 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:05.43547 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:05.43607 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:05.43653 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:05.43694 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:05.43737 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:05.43769 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:05.43815 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:05.49697 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:05.49732 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:05.84269 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:05.84318 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:06.20597 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:06.20639 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:06.55713 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:06.55797 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:06.92030 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:06.92073 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:07.25931 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:07.25976 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:07.62400 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:07.62501 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:07.98257 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:07.98313 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:08.34887 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:08.34935 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:08.69829 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:08.69874 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:09.06638 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:09.06700 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:09.40067 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:09.40108 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:09.77956 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:09.78015 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:10.10865 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:10.10899 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:10.44685 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:10.44718 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:10.49110 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:10.49174 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:10.82993 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:10.83058 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:11.15575 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:11.15633 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:11.21372 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:11.21410 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:11.54881 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:11.54941 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:11.61247 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:11.61288 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:11.87777 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:11.87868 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:11.92407 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:11.92468 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:12.27093 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:12.27152 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:12.60039 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:12.60098 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:12.64611 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:12.64669 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:13.01038 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:13.01087 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:13.31855 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:13.31913 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:13.36352 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:13.36389 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:13.71546 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:13.71636 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:14.03472 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:14.03530 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:14.07291 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:14.07363 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:14.43748 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:14.43807 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:14.74738 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:14.74775 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:14.79030 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:14.79066 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:15.15814 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:15.15872 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:15.46608 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:15.46664 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:15.50663 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:15.50705 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:15.87175 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:15.87223 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:16.17999 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:16.18052 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:16.22624 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:16.22752 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:16.33037 LOG:  using stale statistics instead of current ones because stats collector is not responding
+2018-04-20_07:41:16.33092 STATEMENT:  SELECT * FROM pg_stat_database;
+2018-04-20_07:41:16.33250 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:16.33299 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:16.33372 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:16.59474 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:16.59502 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:16.68288 LOG:  using stale statistics instead of current ones because stats collector is not responding
+2018-04-20_07:41:16.68338 STATEMENT:            SELECT relname,seq_tup_read,idx_tup_fetch,n_tup_ins,n_tup_upd,n_tup_del,n_tup_hot_upd,n_dead_tup,seq_scan
+2018-04-20_07:41:16.68853 	          FROM pg_stat_user_tables
+2018-04-20_07:41:16.68890 	          WHERE relname IN (SELECT tablename FROM pg_tables WHERE tableowner = 'gitlab')
+2018-04-20_07:41:16.68920 	          GROUP BY relname,seq_tup_read,idx_tup_fetch,n_tup_ins,n_tup_upd,n_tup_del,n_tup_hot_upd,n_dead_tup,seq_scan
+2018-04-20_07:41:16.68956 	
+2018-04-20_07:41:16.68998 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:16.69042 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:16.69525 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:16.69561 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:16.69682 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:16.69742 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:16.90836 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:16.90880 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:17.30796 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:17.30838 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:17.61963 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:17.62016 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:18.01804 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:18.01869 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:18.33037 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:18.33070 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:18.73554 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:18.73636 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:19.05175 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:19.05218 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:19.44486 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:19.44531 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:19.77158 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:19.77199 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:20.15612 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:20.15670 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:20.43442 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:20.43496 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:20.43639 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:20.43679 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:20.43719 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:20.43845 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:20.43887 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:20.43977 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:20.47919 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:20.47993 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:20.51225 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:20.51267 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:20.86612 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:20.86807 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:21.20168 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:21.20211 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:21.23568 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:21.23613 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:21.58032 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:21.58079 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:21.64866 LOG:  using stale statistics instead of current ones because stats collector is not responding
+2018-04-20_07:41:21.64968 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:21.65001 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:21.95063 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:21.95099 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:22.30001 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:22.30077 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:22.36537 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:22.36569 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:22.66656 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:22.66693 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:23.01081 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:23.01130 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:23.07706 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:23.07748 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:23.37969 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:23.38017 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:23.72834 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:23.72889 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:23.81084 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:23.81134 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:24.09353 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:24.09476 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:24.43744 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:24.43875 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:24.51583 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:24.51617 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:24.80473 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:24.80523 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:25.14838 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:25.14892 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:25.22471 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:25.22505 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:25.51745 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:25.51800 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:25.86291 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:25.86348 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:25.93928 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:25.93972 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:26.23309 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:26.23357 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:26.58032 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:26.58080 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:26.61131 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:26.61169 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:26.65709 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:26.65744 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:26.95067 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:26.95125 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:27.29448 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:27.29534 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:27.37147 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:27.37182 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:27.65701 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:27.65756 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:27.73854 LOG:  using stale statistics instead of current ones because stats collector is not responding
+2018-04-20_07:41:27.73937 STATEMENT:  SELECT * FROM pg_stat_bgwriter;
+2018-04-20_07:41:27.74032 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:27.74076 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:27.74121 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:27.74478 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:27.74528 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:28.09375 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:28.09435 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:28.37204 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:28.37282 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:28.45984 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:28.46095 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:28.80825 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:28.80886 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:29.08495 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:29.08543 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:29.17398 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:29.17455 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:29.51694 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:29.51828 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:29.80253 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:29.80322 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:29.90291 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:29.90374 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:30.22814 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:30.22848 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:30.51715 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:30.51777 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:30.61740 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:30.61890 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:30.93696 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:30.93820 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:31.23223 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:31.23277 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:31.33394 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:31.33426 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:31.67244 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:31.67278 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:31.70189 LOG:  using stale statistics instead of current ones because stats collector is not responding
+2018-04-20_07:41:31.70268 STATEMENT:            SELECT relname,seq_tup_read,idx_tup_fetch,n_tup_ins,n_tup_upd,n_tup_del,n_tup_hot_upd,n_dead_tup,seq_scan
+2018-04-20_07:41:31.70307 	          FROM pg_stat_user_tables
+2018-04-20_07:41:31.70352 	          WHERE relname IN (SELECT tablename FROM pg_tables WHERE tableowner = 'gitlab')
+2018-04-20_07:41:31.70378 	          GROUP BY relname,seq_tup_read,idx_tup_fetch,n_tup_ins,n_tup_upd,n_tup_del,n_tup_hot_upd,n_dead_tup,seq_scan
+2018-04-20_07:41:31.70406 	
+2018-04-20_07:41:31.70716 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:31.70756 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:31.78699 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:31.79017 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:31.79626 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:31.79882 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:32.05952 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:32.06043 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:32.37979 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:32.38046 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:32.73849 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:32.73901 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:32.80376 LOG:  using stale statistics instead of current ones because stats collector is not responding
+2018-04-20_07:41:32.80545 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:32.80607 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:33.43343 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:33.43393 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:33.51703 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:33.51739 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:34.17883 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:34.17920 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:34.28193 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:34.28271 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:34.89903 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:34.89946 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:34.99194 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:34.99225 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:35.50277 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:35.50343 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:35.50396 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:35.50438 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:35.50549 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:35.50617 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:35.50684 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:35.50757 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:35.59866 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:35.59929 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:35.60607 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:35.60659 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:35.69036 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:35.69080 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:36.30899 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:36.30952 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:36.32134 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:36.32197 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:36.40947 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:36.40981 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:37.06115 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:37.06165 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:37.08327 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:37.08377 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:37.18416 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:37.18459 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:37.77865 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:37.77940 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:37.79946 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:37.80002 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:37.90722 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:37.90779 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:38.50457 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:38.50534 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:38.52669 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:38.52744 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:38.53805 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:38.53843 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:38.61594 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:38.61665 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:38.97079 LOG:  using stale statistics instead of current ones because stats collector is not responding
+2018-04-20_07:41:38.97134 STATEMENT:  SELECT * FROM pg_stat_database_conflicts;
+2018-04-20_07:41:38.97234 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:38.97293 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:38.97329 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:39.02638 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:39.02678 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:39.21017 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:39.21085 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:39.32131 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:39.32246 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:39.72645 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:39.72700 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:39.91448 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:39.91501 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:40.02234 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:40.02297 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:40.52143 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:40.52294 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:40.70502 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:40.70648 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:40.78818 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:40.78873 LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-20_07:41:40.94195 LOG:  could not open file "postmaster.pid": No such file or directory
+2018-04-20_07:41:40.96988 LOG:  performing immediate shutdown because data directory lock file is invalid
+2018-04-20_07:41:40.97217 LOG:  received immediate shutdown request
+2018-04-20_07:41:40.97307 WARNING:  terminating connection because of crash of another server process
+2018-04-20_07:41:40.97399 DETAIL:  The postmaster has commanded this server process to roll back the current transaction and exit, because another server process exited abnormally and possibly corrupted shared memory.
+2018-04-20_07:41:40.97485 HINT:  In a moment you should be able to reconnect to the database and repeat your command.
+2018-04-20_07:41:40.97611 WARNING:  terminating connection because of crash of another server process
+2018-04-20_07:41:40.97797 DETAIL:  The postmaster has commanded this server process to roll back the current transaction and exit, because another server process exited abnormally and possibly corrupted shared memory.
+2018-04-20_07:41:40.97968 HINT:  In a moment you should be able to reconnect to the database and repeat your command.
+2018-04-20_07:41:41.01078 WARNING:  terminating connection because of crash of another server process
+2018-04-20_07:41:41.02079 DETAIL:  The postmaster has commanded this server process to roll back the current transaction and exit, because another server process exited abnormally and possibly corrupted shared memory.
+2018-04-20_07:41:41.02273 HINT:  In a moment you should be able to reconnect to the database and repeat your command.
+2018-04-20_07:41:41.02411 WARNING:  terminating connection because of crash of another server process
+2018-04-20_07:41:41.02668 DETAIL:  The postmaster has commanded this server process to roll back the current transaction and exit, because another server process exited abnormally and possibly corrupted shared memory.
+2018-04-20_07:41:41.02862 HINT:  In a moment you should be able to reconnect to the database and repeat your command.
+2018-04-20_07:41:41.03155 WARNING:  terminating connection because of crash of another server process
+2018-04-20_07:41:41.05367 DETAIL:  The postmaster has commanded this server process to roll back the current transaction and exit, because another server process exited abnormally and possibly corrupted shared memory.
+2018-04-20_07:41:41.07135 HINT:  In a moment you should be able to reconnect to the database and repeat your command.
+2018-04-20_07:41:41.07244 WARNING:  terminating connection because of crash of another server process
+2018-04-20_07:41:41.08512 DETAIL:  The postmaster has commanded this server process to roll back the current transaction and exit, because another server process exited abnormally and possibly corrupted shared memory.
+2018-04-20_07:41:41.08861 HINT:  In a moment you should be able to reconnect to the database and repeat your command.
+2018-04-20_07:41:41.08962 WARNING:  terminating connection because of crash of another server process
+2018-04-20_07:41:41.09051 DETAIL:  The postmaster has commanded this server process to roll back the current transaction and exit, because another server process exited abnormally and possibly corrupted shared memory.
+2018-04-20_07:41:41.09235 HINT:  In a moment you should be able to reconnect to the database and repeat your command.
+2018-04-20_07:41:41.09412 WARNING:  terminating connection because of crash of another server process
+2018-04-20_07:41:41.09588 DETAIL:  The postmaster has commanded this server process to roll back the current transaction and exit, because another server process exited abnormally and possibly corrupted shared memory.
+2018-04-20_07:41:41.09713 HINT:  In a moment you should be able to reconnect to the database and repeat your command.
+2018-04-20_07:41:41.09843 WARNING:  terminating connection because of crash of another server process
+2018-04-20_07:41:41.09951 DETAIL:  The postmaster has commanded this server process to roll back the current transaction and exit, because another server process exited abnormally and possibly corrupted shared memory.
+2018-04-20_07:41:41.10095 HINT:  In a moment you should be able to reconnect to the database and repeat your command.
+2018-04-20_07:41:41.10180 LOG:  could not open temporary statistics file "pg_stat/global.tmp": No such file or directory
+2018-04-20_07:41:41.10326 WARNING:  terminating connection because of crash of another server process
+2018-04-20_07:41:41.10447 DETAIL:  The postmaster has commanded this server process to roll back the current transaction and exit, because another server process exited abnormally and possibly corrupted shared memory.
+2018-04-20_07:41:41.10575 HINT:  In a moment you should be able to reconnect to the database and repeat your command.
+2018-04-20_07:41:41.42877 LOG:  database system is shut down
+2018-04-20_07:41:41.46362 postgres: could not access directory "/var/opt/gitlab/postgresql/data": No such file or directory
+2018-04-20_07:41:41.46426 Run initdb or pg_basebackup to initialize a PostgreSQL data directory.
+2018-04-20_07:41:42.47218 postgres: could not access directory "/var/opt/gitlab/postgresql/data": No such file or directory
+2018-04-20_07:41:42.47253 Run initdb or pg_basebackup to initialize a PostgreSQL data directory.
+2018-04-20_07:41:43.47897 postgres: could not access directory "/var/opt/gitlab/postgresql/data": No such file or directory
+2018-04-20_07:41:43.47948 Run initdb or pg_basebackup to initialize a PostgreSQL data directory.
+2018-04-20_07:41:44.48644 postgres: could not access directory "/var/opt/gitlab/postgresql/data": No such file or directory
+2018-04-20_07:41:44.48686 Run initdb or pg_basebackup to initialize a PostgreSQL data directory.
+2018-04-20_07:41:45.49357 postgres: could not access directory "/var/opt/gitlab/postgresql/data": No such file or directory
+2018-04-20_07:41:45.49398 Run initdb or pg_basebackup to initialize a PostgreSQL data directory.
+2018-04-20_07:41:46.49889 postgres: could not access directory "/var/opt/gitlab/postgresql/data": No such file or directory
+2018-04-20_07:41:46.49930 Run initdb or pg_basebackup to initialize a PostgreSQL data directory.
+2018-04-20_07:41:47.50753 postgres: could not access directory "/var/opt/gitlab/postgresql/data": No such file or directory
+2018-04-20_07:41:47.50814 Run initdb or pg_basebackup to initialize a PostgreSQL data directory.
+2018-04-20_07:41:48.51547 postgres: could not access directory "/var/opt/gitlab/postgresql/data": No such file or directory
+2018-04-20_07:41:48.51730 Run initdb or pg_basebackup to initialize a PostgreSQL data directory.
+2018-04-20_07:41:49.52694 postgres: could not access directory "/var/opt/gitlab/postgresql/data": No such file or directory
+2018-04-20_07:41:49.52725 Run initdb or pg_basebackup to initialize a PostgreSQL data directory.
+2018-04-20_07:41:50.53292 postgres: could not access directory "/var/opt/gitlab/postgresql/data": No such file or directory
+2018-04-20_07:41:50.53320 Run initdb or pg_basebackup to initialize a PostgreSQL data directory.
+2018-04-20_07:41:51.54139 postgres: could not access directory "/var/opt/gitlab/postgresql/data": No such file or directory
+2018-04-20_07:41:51.54185 Run initdb or pg_basebackup to initialize a PostgreSQL data directory.
+2018-04-20_07:41:52.54901 postgres: could not access directory "/var/opt/gitlab/postgresql/data": No such file or directory
+2018-04-20_07:41:52.54939 Run initdb or pg_basebackup to initialize a PostgreSQL data directory.
+2018-04-20_07:41:53.55603 postgres: could not access directory "/var/opt/gitlab/postgresql/data": No such file or directory
+2018-04-20_07:41:53.55645 Run initdb or pg_basebackup to initialize a PostgreSQL data directory.
+2018-04-20_07:41:54.56330 postgres: could not access directory "/var/opt/gitlab/postgresql/data": No such file or directory
+2018-04-20_07:41:54.56371 Run initdb or pg_basebackup to initialize a PostgreSQL data directory.
+2018-04-20_07:41:55.56971 postgres: could not access directory "/var/opt/gitlab/postgresql/data": No such file or directory
+2018-04-20_07:41:55.57007 Run initdb or pg_basebackup to initialize a PostgreSQL data directory.
+2018-04-20_07:41:56.57551 postgres: could not access directory "/var/opt/gitlab/postgresql/data": No such file or directory
+2018-04-20_07:41:56.57596 Run initdb or pg_basebackup to initialize a PostgreSQL data directory.
+2018-04-20_07:41:57.58186 postgres: could not access directory "/var/opt/gitlab/postgresql/data": No such file or directory
+2018-04-20_07:41:57.58221 Run initdb or pg_basebackup to initialize a PostgreSQL data directory.
+2018-04-20_07:41:58.58958 postgres: could not access directory "/var/opt/gitlab/postgresql/data": No such file or directory
+2018-04-20_07:41:58.58997 Run initdb or pg_basebackup to initialize a PostgreSQL data directory.
+2018-04-20_07:41:59.59611 postgres: could not access directory "/var/opt/gitlab/postgresql/data": No such file or directory
+2018-04-20_07:41:59.59639 Run initdb or pg_basebackup to initialize a PostgreSQL data directory.
+2018-04-20_07:42:00.60178 postgres: could not access directory "/var/opt/gitlab/postgresql/data": No such file or directory
+2018-04-20_07:42:00.60207 Run initdb or pg_basebackup to initialize a PostgreSQL data directory.
+2018-04-20_07:42:01.60823 postgres: could not access directory "/var/opt/gitlab/postgresql/data": No such file or directory
+2018-04-20_07:42:01.60851 Run initdb or pg_basebackup to initialize a PostgreSQL data directory.
+2018-04-20_07:42:02.61613 postgres: could not access directory "/var/opt/gitlab/postgresql/data": No such file or directory
+2018-04-20_07:42:02.61676 Run initdb or pg_basebackup to initialize a PostgreSQL data directory.
+2018-04-20_07:42:03.62267 postgres: could not access directory "/var/opt/gitlab/postgresql/data": No such file or directory
+2018-04-20_07:42:03.62299 Run initdb or pg_basebackup to initialize a PostgreSQL data directory.
+2018-04-20_07:42:04.63112 postgres: could not access directory "/var/opt/gitlab/postgresql/data": No such file or directory
+2018-04-20_07:42:04.63151 Run initdb or pg_basebackup to initialize a PostgreSQL data directory.
+2018-04-20_07:42:05.63929 postgres: could not access directory "/var/opt/gitlab/postgresql/data": No such file or directory
+2018-04-20_07:42:05.63959 Run initdb or pg_basebackup to initialize a PostgreSQL data directory.
+2018-04-20_07:42:06.64410 postgres: could not access directory "/var/opt/gitlab/postgresql/data": No such file or directory
+2018-04-20_07:42:06.64446 Run initdb or pg_basebackup to initialize a PostgreSQL data directory.
+2018-04-20_07:42:07.64974 postgres: could not access directory "/var/opt/gitlab/postgresql/data": No such file or directory
+2018-04-20_07:42:07.65003 Run initdb or pg_basebackup to initialize a PostgreSQL data directory.
+2018-04-20_07:42:08.65599 postgres: could not access directory "/var/opt/gitlab/postgresql/data": No such file or directory
+2018-04-20_07:42:08.65681 Run initdb or pg_basebackup to initialize a PostgreSQL data directory.
+2018-04-20_07:42:09.66200 postgres: could not access directory "/var/opt/gitlab/postgresql/data": No such file or directory
+2018-04-20_07:42:09.66250 Run initdb or pg_basebackup to initialize a PostgreSQL data directory.
+2018-04-20_07:42:10.67027 postgres: could not access directory "/var/opt/gitlab/postgresql/data": No such file or directory
+2018-04-20_07:42:10.67077 Run initdb or pg_basebackup to initialize a PostgreSQL data directory.
+2018-04-20_07:42:11.67729 postgres: could not access directory "/var/opt/gitlab/postgresql/data": No such file or directory
+2018-04-20_07:42:11.67767 Run initdb or pg_basebackup to initialize a PostgreSQL data directory.
+2018-04-20_07:42:12.68494 postgres: could not access directory "/var/opt/gitlab/postgresql/data": No such file or directory
+2018-04-20_07:42:12.68537 Run initdb or pg_basebackup to initialize a PostgreSQL data directory.
+2018-04-20_07:42:13.69255 postgres: could not access directory "/var/opt/gitlab/postgresql/data": No such file or directory
+2018-04-20_07:42:13.69298 Run initdb or pg_basebackup to initialize a PostgreSQL data directory.
+2018-04-20_07:42:14.69960 postgres: could not access directory "/var/opt/gitlab/postgresql/data": No such file or directory
+2018-04-20_07:42:14.69993 Run initdb or pg_basebackup to initialize a PostgreSQL data directory.
+2018-04-20_07:42:15.70546 postgres: could not access directory "/var/opt/gitlab/postgresql/data": No such file or directory
+2018-04-20_07:42:15.70575 Run initdb or pg_basebackup to initialize a PostgreSQL data directory.
+2018-04-20_07:42:16.73733 postgres: could not access directory "/var/opt/gitlab/postgresql/data": No such file or directory
+2018-04-20_07:42:16.73903 Run initdb or pg_basebackup to initialize a PostgreSQL data directory.
+2018-04-20_07:42:17.74851 postgres: could not access directory "/var/opt/gitlab/postgresql/data": No such file or directory
+2018-04-20_07:42:17.74897 Run initdb or pg_basebackup to initialize a PostgreSQL data directory.
+2018-04-20_07:42:18.84840 postgres: could not access directory "/var/opt/gitlab/postgresql/data": No such file or directory
+2018-04-20_07:42:18.84925 Run initdb or pg_basebackup to initialize a PostgreSQL data directory.
+2018-04-20_07:42:19.85601 postgres: could not access directory "/var/opt/gitlab/postgresql/data": No such file or directory
+2018-04-20_07:42:19.85633 Run initdb or pg_basebackup to initialize a PostgreSQL data directory.
+2018-04-20_07:42:20.86608 postgres: could not access directory "/var/opt/gitlab/postgresql/data": No such file or directory
+2018-04-20_07:42:20.86872 Run initdb or pg_basebackup to initialize a PostgreSQL data directory.
+2018-04-20_07:42:21.87347 postgres: could not access directory "/var/opt/gitlab/postgresql/data": No such file or directory
+2018-04-20_07:42:21.87499 Run initdb or pg_basebackup to initialize a PostgreSQL data directory.
+2018-04-20_07:42:22.87991 postgres: could not access directory "/var/opt/gitlab/postgresql/data": No such file or directory
+2018-04-20_07:42:22.88021 Run initdb or pg_basebackup to initialize a PostgreSQL data directory.
+2018-04-20_07:42:23.88812 postgres: could not access directory "/var/opt/gitlab/postgresql/data": No such file or directory
+2018-04-20_07:42:23.88850 Run initdb or pg_basebackup to initialize a PostgreSQL data directory.
+2018-04-20_07:42:24.89426 postgres: could not access directory "/var/opt/gitlab/postgresql/data": No such file or directory
+2018-04-20_07:42:24.89461 Run initdb or pg_basebackup to initialize a PostgreSQL data directory.
+2018-04-20_07:42:25.90248 postgres: could not access directory "/var/opt/gitlab/postgresql/data": No such file or directory
+2018-04-20_07:42:25.90278 Run initdb or pg_basebackup to initialize a PostgreSQL data directory.
+2018-04-20_07:42:26.90822 postgres: could not access directory "/var/opt/gitlab/postgresql/data": No such file or directory
+2018-04-20_07:42:26.90850 Run initdb or pg_basebackup to initialize a PostgreSQL data directory.
+2018-04-20_07:42:27.91494 postgres: could not access directory "/var/opt/gitlab/postgresql/data": No such file or directory
+2018-04-20_07:42:27.91614 Run initdb or pg_basebackup to initialize a PostgreSQL data directory.
+2018-04-20_07:42:28.92138 postgres: could not access directory "/var/opt/gitlab/postgresql/data": No such file or directory
+2018-04-20_07:42:28.92166 Run initdb or pg_basebackup to initialize a PostgreSQL data directory.
+2018-04-20_07:42:29.92977 postgres: could not access directory "/var/opt/gitlab/postgresql/data": No such file or directory
+2018-04-20_07:42:29.93022 Run initdb or pg_basebackup to initialize a PostgreSQL data directory.
+2018-04-20_07:42:30.93850 postgres: could not access directory "/var/opt/gitlab/postgresql/data": No such file or directory
+2018-04-20_07:42:30.93888 Run initdb or pg_basebackup to initialize a PostgreSQL data directory.
+2018-04-20_07:42:31.94555 postgres: could not access directory "/var/opt/gitlab/postgresql/data": No such file or directory
+2018-04-20_07:42:31.94592 Run initdb or pg_basebackup to initialize a PostgreSQL data directory.
+2018-04-20_07:42:32.95165 postgres: could not access directory "/var/opt/gitlab/postgresql/data": No such file or directory
+2018-04-20_07:42:32.95198 Run initdb or pg_basebackup to initialize a PostgreSQL data directory.
+2018-04-20_07:42:33.95860 postgres: could not access directory "/var/opt/gitlab/postgresql/data": No such file or directory
+2018-04-20_07:42:33.95889 Run initdb or pg_basebackup to initialize a PostgreSQL data directory.
+2018-04-20_07:42:34.96437 postgres: could not access directory "/var/opt/gitlab/postgresql/data": No such file or directory
+2018-04-20_07:42:34.96474 Run initdb or pg_basebackup to initialize a PostgreSQL data directory.
+2018-04-20_07:42:35.97157 postgres: could not access directory "/var/opt/gitlab/postgresql/data": No such file or directory
+2018-04-20_07:42:35.97189 Run initdb or pg_basebackup to initialize a PostgreSQL data directory.
+2018-04-20_07:42:36.97753 postgres: could not access directory "/var/opt/gitlab/postgresql/data": No such file or directory
+2018-04-20_07:42:36.97790 Run initdb or pg_basebackup to initialize a PostgreSQL data directory.
+2018-04-20_07:42:37.99058 postgres: could not access directory "/var/opt/gitlab/postgresql/data": No such file or directory
+2018-04-20_07:42:37.99236 Run initdb or pg_basebackup to initialize a PostgreSQL data directory.
+2018-04-20_07:42:38.99819 postgres: could not access directory "/var/opt/gitlab/postgresql/data": No such file or directory
+2018-04-20_07:42:38.99850 Run initdb or pg_basebackup to initialize a PostgreSQL data directory.
+2018-04-20_07:42:40.00644 postgres: could not access directory "/var/opt/gitlab/postgresql/data": No such file or directory
+2018-04-20_07:42:40.00723 Run initdb or pg_basebackup to initialize a PostgreSQL data directory.
+2018-04-20_07:42:41.01157 postgres: could not access directory "/var/opt/gitlab/postgresql/data": No such file or directory
+2018-04-20_07:42:41.01193 Run initdb or pg_basebackup to initialize a PostgreSQL data directory.
+2018-04-20_07:42:42.01893 postgres: could not access directory "/var/opt/gitlab/postgresql/data": No such file or directory
+2018-04-20_07:42:42.01930 Run initdb or pg_basebackup to initialize a PostgreSQL data directory.
+2018-04-20_07:42:43.02583 postgres: could not access directory "/var/opt/gitlab/postgresql/data": No such file or directory
+2018-04-20_07:42:43.02626 Run initdb or pg_basebackup to initialize a PostgreSQL data directory.
+2018-04-20_07:42:44.03215 postgres: could not access directory "/var/opt/gitlab/postgresql/data": No such file or directory
+2018-04-20_07:42:44.03249 Run initdb or pg_basebackup to initialize a PostgreSQL data directory.
+2018-04-20_07:42:45.03879 postgres: could not access directory "/var/opt/gitlab/postgresql/data": No such file or directory
+2018-04-20_07:42:45.03918 Run initdb or pg_basebackup to initialize a PostgreSQL data directory.
+2018-04-20_07:42:46.04839 postgres: could not access directory "/var/opt/gitlab/postgresql/data": No such file or directory
+2018-04-20_07:42:46.04875 Run initdb or pg_basebackup to initialize a PostgreSQL data directory.
+2018-04-20_07:42:47.05781 postgres: could not access directory "/var/opt/gitlab/postgresql/data": No such file or directory
+2018-04-20_07:42:47.05812 Run initdb or pg_basebackup to initialize a PostgreSQL data directory.
+2018-04-20_07:42:48.06428 postgres: could not access directory "/var/opt/gitlab/postgresql/data": No such file or directory
+2018-04-20_07:42:48.06457 Run initdb or pg_basebackup to initialize a PostgreSQL data directory.
+2018-04-20_07:42:49.07237 postgres: could not access directory "/var/opt/gitlab/postgresql/data": No such file or directory
+2018-04-20_07:42:49.07303 Run initdb or pg_basebackup to initialize a PostgreSQL data directory.
+2018-04-20_07:42:50.07880 postgres: could not access directory "/var/opt/gitlab/postgresql/data": No such file or directory
+2018-04-20_07:42:50.07909 Run initdb or pg_basebackup to initialize a PostgreSQL data directory.
+2018-04-20_07:42:51.08473 postgres: could not access directory "/var/opt/gitlab/postgresql/data": No such file or directory
+2018-04-20_07:42:51.08506 Run initdb or pg_basebackup to initialize a PostgreSQL data directory.
+2018-04-20_07:42:52.09077 postgres: could not access directory "/var/opt/gitlab/postgresql/data": No such file or directory
+2018-04-20_07:42:52.09112 Run initdb or pg_basebackup to initialize a PostgreSQL data directory.
+2018-04-20_07:42:53.09701 postgres: could not access directory "/var/opt/gitlab/postgresql/data": No such file or directory
+2018-04-20_07:42:53.09862 Run initdb or pg_basebackup to initialize a PostgreSQL data directory.
+2018-04-20_07:42:54.10375 postgres: could not access directory "/var/opt/gitlab/postgresql/data": No such file or directory
+2018-04-20_07:42:54.10401 Run initdb or pg_basebackup to initialize a PostgreSQL data directory.
+2018-04-20_07:42:55.10923 postgres: could not access directory "/var/opt/gitlab/postgresql/data": No such file or directory
+2018-04-20_07:42:55.10958 Run initdb or pg_basebackup to initialize a PostgreSQL data directory.
+2018-04-20_07:42:56.11489 postgres: could not access directory "/var/opt/gitlab/postgresql/data": No such file or directory
+2018-04-20_07:42:56.11529 Run initdb or pg_basebackup to initialize a PostgreSQL data directory.
+2018-04-20_07:42:57.12098 postgres: could not access directory "/var/opt/gitlab/postgresql/data": No such file or directory
+2018-04-20_07:42:57.12129 Run initdb or pg_basebackup to initialize a PostgreSQL data directory.
+2018-04-20_07:42:58.12739 postgres: could not access directory "/var/opt/gitlab/postgresql/data": No such file or directory
+2018-04-20_07:42:58.12778 Run initdb or pg_basebackup to initialize a PostgreSQL data directory.
+2018-04-20_07:42:59.13372 postgres: could not access directory "/var/opt/gitlab/postgresql/data": No such file or directory
+2018-04-20_07:42:59.13425 Run initdb or pg_basebackup to initialize a PostgreSQL data directory.
+2018-04-20_07:43:00.14345 postgres: could not access directory "/var/opt/gitlab/postgresql/data": No such file or directory
+2018-04-20_07:43:00.14389 Run initdb or pg_basebackup to initialize a PostgreSQL data directory.
+2018-04-20_07:43:01.14968 postgres: could not access directory "/var/opt/gitlab/postgresql/data": No such file or directory
+2018-04-20_07:43:01.15023 Run initdb or pg_basebackup to initialize a PostgreSQL data directory.
+2018-04-20_07:43:02.15723 postgres: could not access directory "/var/opt/gitlab/postgresql/data": No such file or directory
+2018-04-20_07:43:02.15755 Run initdb or pg_basebackup to initialize a PostgreSQL data directory.
+2018-04-20_07:43:03.16405 postgres: could not access directory "/var/opt/gitlab/postgresql/data": No such file or directory
+2018-04-20_07:43:03.16437 Run initdb or pg_basebackup to initialize a PostgreSQL data directory.
+2018-04-20_07:43:04.17005 postgres: could not access directory "/var/opt/gitlab/postgresql/data": No such file or directory
+2018-04-20_07:43:04.17037 Run initdb or pg_basebackup to initialize a PostgreSQL data directory.

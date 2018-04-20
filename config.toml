@@ -1,0 +1,47 @@
+concurrent = 1
+check_interval = 0
+
+[[runners]]
+  name = "nodejs runner"
+  url = "http://172.18.1.17/"
+  token = "5d1147ce2fb74286794016bad09070"
+  executor = "docker"
+  [runners.docker]
+    tls_verify = false
+    image = "nodejs"
+    privileged = false
+    disable_cache = false
+    volumes = ["/cache"]
+    pull_policy = "if-not-present"
+    shm_size = 0
+  [runners.cache]
+
+[[runners]]
+  name = "ansible deploy runner"
+  url = "http://172.18.1.17"
+  token = "dfde04afb594ac14a18c22506266ae"
+  executor = "docker"
+  [runners.docker]
+    tls_verify = false
+    image = "ansible"
+    privileged = false
+    disable_cache = false
+    volumes = ["/cache"]
+    pull_policy = "if-not-present"
+    shm_size = 0
+  [runners.cache]
+
+[[runners]]
+  name = "flake8 runner"
+  url = "http://172.18.1.17"
+  token = "39ade9478400f8e4857954ed66febd"
+  executor = "docker"
+  [runners.docker]
+    tls_verify = false
+    image = "flake8"
+    privileged = false
+    disable_cache = false
+    volumes = ["/cache"]
+    pull_policy = "if-not-present"
+    shm_size = 0
+  [runners.cache]
